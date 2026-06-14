@@ -34,7 +34,7 @@ const weinbergCamping: CampsiteConfig = {
     },
     {
       title: "Mitten in den Weingärten",
-      text: "Der Platz liegt eingebettet zwischen Weingärten, Buschenschänken und einem Hotelrestaurant — die südsteirische Toskana direkt vor dem Vorzelt.",
+      text: "Eingebettet zwischen Weingärten und Buschenschänken liegt die südsteirische Toskana direkt vor dem Vorzelt.",
       image: { src: `${IMG}/luftbild-weinberge.webp`, alt: "Luftaufnahme: Weinberg Panorama Camping inmitten der Weingärten" },
     },
     {
@@ -89,7 +89,7 @@ const weinbergCamping: CampsiteConfig = {
       },
       {
         title: "Strom & Wasser am Platz",
-        text: "Jeder Stellplatz ist mit Strom- und Wasseranschluss ausgestattet, dazu Entsorgung für die Chemietoilette und ein Geschirr-Abwaschplatz.",
+        text: "Jeder Stellplatz hat Strom- und Wasseranschluss, Chemietoiletten-Entsorgung und einen Geschirr-Abwaschplatz.",
         image: { src: `${IMG}/stellplatz.webp`, alt: "Stellplatz mit Strom- und Wasseranschluss" },
       },
       {
@@ -117,12 +117,12 @@ const weinbergCamping: CampsiteConfig = {
     items: [
       {
         title: "Der größte Klapotetz der Welt",
-        text: "Nur rund 700 Meter entfernt steht am Fuße des Demmerkogels der weltgrößte funktionstüchtige Klapotetz — das Wahrzeichen der Gegend.",
+        text: "Nur 700 Meter entfernt steht der weltgrößte funktionstüchtige Klapotetz — das Wahrzeichen der Gegend.",
         image: { src: `${IMG}/klapotetz.webp`, alt: "Weltgrößter funktionstüchtiger Klapotetz am Demmerkogel" },
       },
       {
         title: "Wandern zur Aussichtswarte",
-        text: "Ein gemütlicher Spaziergang von rund 30 Minuten führt zur neuen, 30 Meter hohen Aussichtswarte mit Panoramablick bei klarem Wetter bis 500 km.",
+        text: "In rund 30 Minuten erreichst du die 30 Meter hohe Aussichtswarte mit Panoramablick bis 500 km.",
         image: { src: `${IMG}/panorama-wandern.webp`, alt: "Weite Hügellandschaft des Sausal beim Wandern" },
       },
       {
