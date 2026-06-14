@@ -105,7 +105,7 @@ const weinbergCamping: CampsiteConfig = {
       {
         title: "Rustikaler Aufenthaltsraum",
         text: "Im gemütlichen, rustikalen Aufenthaltsraum findest du Platz zum Verweilen — und rund um die Uhr gekühlte Getränke.",
-        image: { src: `${IMG}/aufenthaltsraum.webp`, alt: "Rustikaler Aufenthaltsraum am Campingplatz" },
+        image: { src: `${IMG}/aufenthaltsraum.webp`, alt: "Gemütlicher Aufenthaltsraum mit Sofas und Grotte" },
       },
     ],
   },
