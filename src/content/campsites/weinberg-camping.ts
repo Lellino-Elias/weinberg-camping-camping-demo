@@ -63,7 +63,7 @@ const weinbergCamping: CampsiteConfig = {
   awards: [],
 
   hero: {
-    aerial: { src: `${IMG}/hero-panorama.webp`, alt: "Panoramablick über die Weinberge der Südsteiermark" },
+    aerial: { src: `${IMG}/panorama-aussicht.webp`, alt: "Panoramablick über die Weinberge der Südsteiermark" },
     sunset: { src: `${IMG}/sunset.webp`, alt: "Sonnenuntergang über den Hügeln des Sausal" },
   },
 
@@ -78,9 +78,9 @@ const weinbergCamping: CampsiteConfig = {
       "Vom Stellplatz schweift der Blick über Reben und Hügel — Whirlpool, Sauna und Außenpool sind für unsere Gäste inklusive, Strom und Wasser gibt es auf jedem Platz.",
     features: [
       {
-        title: "Whirlpool inklusive",
-        text: "Der Whirlpool im rustikalen Grottenraum steht allen Gästen kostenlos zur Verfügung — Wellness gehört hier einfach dazu.",
-        image: { src: `${IMG}/whirlpool.webp`, alt: "Whirlpool im Grottenraum des Weinberg Panorama Camping" },
+        title: "Außenpool zur Abkühlung",
+        text: "Ein kleiner Pool sorgt an heißen Tagen für die nötige Erfrischung — mit Blick über die Weingärten.",
+        image: { src: `${IMG}/aussenpool.webp`, alt: "Außenpool mit Blick über die Weinberge" },
       },
       {
         title: "Sauna mit Holzofen",
@@ -88,14 +88,14 @@ const weinbergCamping: CampsiteConfig = {
         image: { src: `${IMG}/sauna.webp`, alt: "Sauna mit Holzofen am Campingplatz" },
       },
       {
-        title: "Außenpool zur Abkühlung",
-        text: "Ein kleiner Pool sorgt an heißen Tagen für die nötige Erfrischung — mit Blick über die Weingärten.",
-        image: { src: `${IMG}/aussenpool.webp`, alt: "Außenpool mit Blick über die Weinberge" },
-      },
-      {
         title: "Strom & Wasser am Platz",
         text: "Jeder Stellplatz ist mit Strom- und Wasseranschluss ausgestattet, dazu Entsorgung für die Chemietoilette und ein Geschirr-Abwaschplatz.",
         image: { src: `${IMG}/stellplatz.webp`, alt: "Stellplatz mit Strom- und Wasseranschluss" },
+      },
+      {
+        title: "Whirlpool inklusive",
+        text: "Der Whirlpool im rustikalen Grottenraum steht allen Gästen kostenlos zur Verfügung — Wellness gehört hier einfach dazu.",
+        image: { src: `${IMG}/whirlpool.webp`, alt: "Whirlpool im Grottenraum des Weinberg Panorama Camping" },
       },
       {
         title: "Hundepool für Vierbeiner",
